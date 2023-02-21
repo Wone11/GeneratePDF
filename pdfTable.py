@@ -7,7 +7,6 @@ from reportlab.graphics.shapes import Drawing
 from reportlab.graphics.charts.piecharts import Pie
 
 
-
 '''fruits list'''
 fruits = {
         "Elderberries":1,
@@ -16,7 +15,8 @@ fruits = {
         "Durians":3,
         "Bananas":5,
         "Cheries":8,
-        "Grapes":13
+        "Grapes":13,
+        "Strawberry":20
     }
 
 try:   
